@@ -6,7 +6,7 @@
 - 🔭 Passion for new technology and innovativeness
 - 🧑‍🎓 Graduate of <a href="https://saskpolytech.ca/">Saskatchewan Polytechnic</a>
 - 🌱 Currently learning <img src='https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white'> and <img src='https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white'>
-- 👯 I’m looking to for entry level programming/web-developer Position.
+- 👯 I’m looking for entry level Software Developer / Web-Developer Positions.
 
 <h3 align="center">Skills and Experience:</h3>
 <div align="center">
